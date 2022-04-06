@@ -1,0 +1,67 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="782px" height="307px" viewBox="-0.5 -0.5 782 307" content="&lt;mxfile&gt;&lt;diagram id=&quot;DYuZs06pFLHIAdXTfe4z&quot; name=&quot;Page-1&quot;&gt;1Vhbc6IwFP41PNoBAkgfq3a7D7sznfFh28cIETMbiZPEVvvrN8FwS9Diik77ojmHJOR855Lv4IDpevfE4Gb1m6aIOL6b7hwwc3w/BvfyVyn2WhG5B0XGcHpQebVijj+QVpbTtjhFvDVRUEoE3rSVCc1zlIiWDjJG39vTlpS037qBGbIU8wQSW/sHp2KlrfDHtf4nwtmqfLMXaYPXsJysLeErmNL3hgo8OmDKKBWH0Xo3RURhV+JyWPfjyNPqYAzlotcCfeQ3SLbaOH0wsS+tRak0Xos5zeXfBO2weJGiq8evcuzp8WzXeDDba2FJc6Ed6cVStg+qz87pliX6zfos6gCNOdqSJ0TXSLC9nMAQgQK/tb0DtZOzal619Jli+Vbf1fHoxdobOhwDELe3EJBlSOhVNZpy0DhGrSow7sbbt+BeMPoXMRt0QmQ0o3OQe0NMoN1JoPRTELQNBkF4kN/raK5AWbUi2T0ObguWExgAC4MZFFBqnhlNEOdUohE5PvBU3CjBnQvKVEqaIDG6zVOUnhti/YGKwjZQUmEDFXYAFYeX4+SFg+WmexeezE6JENu/lEmshNemUC8qpItyOtD1ukipK6V5X4QDC+CHdI1zqZrSnFPyBSIuKK/GTyNugMzsEXA1AN51APCN0tRlv99hfzSA/dEXsB8Y9o9vaH8PMnB1+82rKb6h/bFl/xzlxX10axSMKgDub4jCfY9rJ08fFI+WUkIg5zg5B4ZPC33Dyq5SV+oupX2RWWqMLQ7XlkX7rI2qHD220XD8seRfDedstguC+Uo5SAermxZ8qoMq/IIL2YmBCSQ4y5XzpGsk+QQTFZlYNjgP+sEap6laOGGI4w+4KDZRV95GGVGYFU6ccNbhdkaF9ArN9QI7Csr4MpOh6tf065xmS9SVJCP3zovDoI39IKFRnlFvOvKNhoAulxxd7Eu7Gfi/RKvYm9tkb5rzneBvJVMsO7fXJjXs5IlHU7qja2syPNAz8WvHjoNx2wdRbFXAK9aGquCWNMxsfPrWhsC8z8wKfaQ2WBuNDBuGCUGbAfPtgicML9CnBUVmrxi4lsCtoFxHthS5UM3xlBJ5iKq/WWJCTNXxEjTyT8btGbzEbAW7iMl9R0SCAa5kz2amquwXVV8WzSXO1GAFs9xuWb6Fm/xwIC8Zd3oQdzTsV/OSzR+b2VQ56ptl0wBusb6whddLHinW308PNbH+CA0e/wE=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <path d="M 345.95 190.64 L 166.37 190.02" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 161.12 190 L 168.13 186.53 L 166.37 190.02 L 168.11 193.53 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <ellipse cx="410" cy="152" rx="90" ry="55" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="18px">
+            <text x="409.5" y="159.5">
+                broker
+            </text>
+        </g>
+        <rect x="630" y="17" width="150" height="85" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="18px">
+            <text x="704.5" y="56">
+                Data Processor
+            </text>
+            <text x="704.5" y="78">
+                or Storage
+            </text>
+        </g>
+        <path d="M 630 252 L 479.98 192.97" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 475.09 191.05 L 482.89 190.35 L 479.98 192.97 L 480.33 196.87 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="630" y="212" width="150" height="80" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="18px">
+            <text x="704.5" y="259.5">
+                Admin Console
+            </text>
+        </g>
+        <rect x="0" y="112" width="120" height="60" rx="9" ry="9" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <rect x="10" y="122" width="120" height="60" rx="9" ry="9" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <rect x="20" y="132" width="120" height="60" rx="9" ry="9" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <rect x="30" y="142" width="120" height="60" rx="9" ry="9" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="18px">
+            <text x="89.5" y="179.5">
+                Sensor
+            </text>
+        </g>
+        <path d="M 140 113 L 343.63 113" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 348.88 113 L 341.88 116.5 L 343.63 113 L 341.88 109.5 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="18px">
+            <rect fill="rgb(255, 255, 255)" stroke="none" x="177" y="72" width="158" height="23" stroke-width="0"/>
+            <text x="254.93" y="90.21">
+                publish sensor data
+            </text>
+        </g>
+        <path d="M 474.05 113.36 L 623.98 61.58" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 628.94 59.87 L 623.47 65.46 L 623.98 61.58 L 621.18 58.84 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="430" y="32" width="190" height="30" fill="none" stroke="none" transform="rotate(-20,525,47)" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="18px" transform="rotate(-20,525,47)">
+            <text x="524.5" y="54.5">
+                subscribe sensor data
+            </text>
+        </g>
+        <rect x="440" y="237" width="190" height="30" fill="none" stroke="none" transform="rotate(25,535,252)" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="18px" transform="rotate(25,535,252)">
+            <text x="534.5" y="259.5">
+                publsh config chagne
+            </text>
+        </g>
+        <rect x="160" y="202" width="190" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" text-anchor="middle" font-size="18px">
+            <text x="254.5" y="224.5">
+                subscribe config data
+            </text>
+        </g>
+    </g>
+</svg>

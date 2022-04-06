@@ -1,0 +1,18 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="251px" height="251px" viewBox="-0.5 -0.5 251 251" content="&lt;mxfile&gt;&lt;diagram id=&quot;guCx3hhD2INPwvJEsc1X&quot; name=&quot;Page-1&quot;&gt;tZVLb6MwEIB/DdfK4JCQ40Ife+lh1Up79sIErBoGGach/fU7YPMqVOqqWw4R/mbGeL4JiceTsn3Qoi4eMQPlBSxrPX7rBUEYHeizA1cL9iywINcys8ifwJN8AweZo2eZQbNINIjKyHoJU6wqSM2CCa3xskw7oVo+tRY5rMBTKtSa/paZKSyNgsPEf4LMi+HJ/v5oI6UYkl0nTSEyvMwQv/N4ohGNvSvbBFTnbvBi6+4/iI4H01CZzxQ4769CnV1v7lzmOjRLBeSVFrFoamvzJFugDeKTVCpBhbrP5MDTiLGOY2VmnPUX8cZofIFZJGbHcKxwc/YjWq/7cK29gjbQzpDr6wGwBKOvlOKiAdvZkuuwds4v08iC0LFiNq4RCvc1yce9J5N042Rui+UrsY+/np/5jX/jf8HwSew3Dd/315bh5MC/z3B4XBrma8P+bsPwCL9ieLdpmEjoBXvq3GdjlzPX1JrpRCuZV0RS6h5IVdx1LekN/+ECpcyyribW0Mg38aev73asUVamP3YYe+Ftt9fZYOPMrkZQYQXv5jigdwP5aKT/Y1BHthjUbuNViDbmxP99TLScfr362OwvgN/9BQ==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <ellipse cx="125" cy="125" rx="125" ry="125" fill="#e3c800" stroke="#b09500" pointer-events="all"/>
+        <ellipse cx="125" cy="100" rx="70" ry="70" fill="#fa6800" stroke="#c73500" pointer-events="all"/>
+        <g fill="#FFFFFF" font-family="Helvetica" text-anchor="middle" font-size="18px">
+            <text x="124.5" y="107.5">
+                MQTT3.1.1
+            </text>
+        </g>
+        <rect x="86" y="200" width="80" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g fill="#FFFFFF" font-family="Helvetica" text-anchor="middle" font-size="18px">
+            <text x="125.5" y="211.5">
+                MQTT 5
+            </text>
+        </g>
+    </g>
+</svg>

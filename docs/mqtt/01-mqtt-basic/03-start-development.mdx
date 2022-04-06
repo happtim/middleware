@@ -1,0 +1,54 @@
+---
+    title : '开始开发'
+---
+
+
+### linux 环境下开发
+
+开始 MQTT 开发的最简单工具是 mosquitto 模块，它是 Eclipse 项目的一部分，该项目提供多种编程语言的 MQTT SDK 和库。它包含一个可在本地计算机上运行的 MQTT 代理和命令行工具，以使用消息与代理进行交互。
+
+您可以从 mosquitto 网站下载并安装该模块。确保同时安装 mosquitto（代理）和mosquitto_clients（客户端）模块。
+
+Ubuntu Linux 上的 install 命令如下所示。
+
+```shell
+$ sudo apt-get install mosquitto mosquitto-clients
+```
+
+Red Hat Linux 上的 install 命令如下所示。
+
+```shell
+$ sudo yum -y install epel-release 
+$ sudo yum -y install mosquitto
+```
+
+mosquitto 命令在本地计算机上运行 MQTT 代理。您可以选择使用 -d 选项在后台运行它。
+
+```shell
+$ mosquitto -d
+```
+
+或者，您可以将其作为系统服务运行。
+
+```shell
+$ systemctl start mosquitto
+```
+
+接下来，在另一个终端窗口中，您可以使用mosquitto_sub命令连接到本地代理并订阅主题。命令执行后，它将等待并打印出通过订阅收到的任何消息。
+
+```shell
+$ mosquitto_sub -t "dw/demo"
+```
+
+在另一个终端窗口中，您可以使用 mosquitto_pub 命令连接到本地代理，然后将消息发布到主题。
+
+```shell
+$ mosquitto_pub -t "dw/demo" -m "hello world!"
+```
+
+现在，运行mosquitto_sub的终端现在应该打印出hello world！在屏幕上。您刚刚通过 MQTT 代理发送并接收了一条消息！
+
+有关如何使用 mosquitto 工具以及如何使用 mosquitto API 创建您自己的 MQTT 客户端应用程序的更多选项，请参阅其文档。
+
+
+### windows 环境下开发

@@ -1,0 +1,21 @@
+---
+    title:'使用共有代理'
+---
+
+当然，在生产系统中，不能使用本地计算机作为代理。您可以使用 mosquitto 软件或其他开源 MQTT 代理软件（如 Mosca 和 EMQ）设置自己的 MQTT 代理服务器。您也可以只使用公有 MQTT 代理服务器。许多公共云提供付费的 MQTT 代理服务。例如，EMQ Cloud 提供基于其开源软件的 MQTT 服务。
+
+mosquitto项目在以下地址提供免费的公共测试经纪人。
+
+https://test.mosquitto.org/
+
+公共测试 MQTT 代理支持各种不同的连接、加密和身份验证选项。在本文中，我们将展示简单的未加密和未经身份验证的 MQTT 消息的示例。
+
+使用以下命令行创建和订阅主题的状态事件。请注意，它对未加密和未经身份验证的消息使用缺省 MQTT 端口 1883。
+
+$ mosquitto_sub -t "#my_device_id" -h test.mosquitto.org
+
+然后，使用以下命令将 JSON 消息从另一个应用程序发送到设备事件。
+
+$ mosquitto_pub -t "#my_device_id" -h test.mosquitto.org -m "{\"mesg\" : \"hello MQTT\"}"
+
+上面的命令窗口现在应将消息打印到控制台。mosquitto_sub
